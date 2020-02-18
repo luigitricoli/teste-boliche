@@ -1,0 +1,45 @@
+{
+  "name": "João",
+  "frames": [
+    {
+      "balls":[1,4],
+      "score":5
+    },
+    {
+      "balls":[4,5],
+      "score":14
+    },
+    {
+      "balls":[6,4],
+      "score":29
+    },
+    {
+      "balls":[5,5],
+      "score":49
+    },
+    {
+      "balls":[10],
+      "score":60
+    },
+    {
+      "balls":[0,1],
+      "score":61
+    },
+    {
+      "balls":[7,3],
+      "score":76
+    },
+    {
+      "balls":[6,4],
+      "score":97
+    },
+    {
+      "balls":[10],
+      "score":117
+    },
+    {
+      "balls":[2,8,6],
+      "score":133
+    }
+  ]
+}
