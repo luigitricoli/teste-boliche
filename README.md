@@ -12,7 +12,7 @@ No décimo quadro, um jogador que faz um spare ou strike pode rolar bolas extra 
 
 ## Desafio
 
-Criar uma solução para controlador os pontos dos jogos de boliche utilizando as tecnologias Java 8, Spring Boot, Junit e Maven, com três integrações:
+Criar uma solução para controlador os pontos dos jogos de boliche utilizando as tecnologias Java 17, Spring Boot, Junit e Maven, com três integrações:
 
 1. Receber, através de uma interface REST em formato JSON, as informações da jogada: quantos pinos um jogador derrubou; e em qual pista ele esta jogando:
 ```python
